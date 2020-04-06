@@ -1,6 +1,5 @@
 $(document).ready(function() {
 // test url: ?gid=ahFzfnBsYXRmb3JtLTE1MTgyMXISCxIFR3JvdXAYgICAwvL57AoM&pid=2019_annual_buynow_ind_Basic
-"use strict"
 
 // chargebee controller 
 var chargebee = (function(UIctrl) {
